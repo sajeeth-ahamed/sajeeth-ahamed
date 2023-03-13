@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sajeeth Ahamed</h1>
+<h1 align="center">Hello 👋, I'm Sajeeth Ahamed</h1>
 <h3 align="center">A passionate Cybersecurity Researcher. Currently, working as an Assistant DevOps Engineer</h3>
 
 - 🌱 I’m currently learning **GitHub workflow, CI/CD**
