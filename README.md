@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sajeeth Ahamed</h1>
 <h3 align="center">A passionate Cybersecurity Researcher. Currently, working as an Assistant DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **GitHub workflow, CI/CD**
+- 🌱 I am currently learning **GitHub workflow, CI/CD**
 
 - 💬 Ask me about **Python3, Linux, Cybersecurity, InfoSec tools and Personal development**
 
